@@ -1,0 +1,23 @@
+//
+//  FavoritesCell.swift
+//  favorite-items
+//
+//  Created by Arai Bayaly on 07.11.2024.
+//
+
+import UIKit
+
+class FavoritesCell: UITableViewCell {
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+
+        // Configure the view for the selected state
+    }
+
+}
